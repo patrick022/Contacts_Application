@@ -6,7 +6,7 @@ const App = () => {
 		<div>
 			<ParticlesBackground />
 			<h2 className="text-white text-7xl m-5 text-center">My Contacts</h2>
-			<section className="p-20 grid sm:grid-cols-2 md:grid-cols-4 gap-6">
+			<section className="p-20 grid sm:grid-cols-2 md:grid-cols-4 gap-6 group group-hover:blur-sm">
 				<ContactCards />
 			</section>
 		</div>
