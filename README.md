@@ -6,6 +6,8 @@ Libraries Used:
 - Tailwind CSS
 - React-fetch-hook
 - Typescript
+- react-tsparticles (For background)
+- tsparticles
 
 ## How to run
 - npm install
